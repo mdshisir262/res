@@ -1,0 +1,11 @@
+ @media all and (max-width: 1550px){
+    .fixed-width{
+    max-width: 70%;
+    }
+    .header-left{
+        width: 25%;
+    }
+    .menu-right{
+        width: 75%;
+    }
+ }
